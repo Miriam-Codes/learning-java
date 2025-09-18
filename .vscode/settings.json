@@ -1,0 +1,9 @@
+{
+  "java.jdt.ls.java.home": "C:\\java\\jdk21",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\java\\jdk21"
+    }
+  ]
+}
