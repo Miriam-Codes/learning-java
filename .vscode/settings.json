@@ -5,5 +5,12 @@
       "name": "JavaSE-21",
       "path": "C:\\java\\jdk21"
     }
+  ],
+  "cSpell.words": [
+    "KILOMETERSTOMILES",
+    "kmph",
+    "MILESTOKILOMETERS",
+    "MINUTESTOHOURS",
+    "SECONDSTOHOURS"
   ]
 }
